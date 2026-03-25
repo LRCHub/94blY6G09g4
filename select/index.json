@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Touched by the Hand of God",
+  "base_artist": "New Order",
+  "createdAt": "2026-03-25T03:44:55.974060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/01_Touched_by_the_Hand_of_God_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/02_Touched_by_the_Hand_of_God_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/03_Touched_by_the_Hand_of_God_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_Touched_by_the_Hand_of_God_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touched By The Hand Of God",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/05_Touched_By_The_Hand_Of_God_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touched By The Hand Of God",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/06_Touched_By_The_Hand_Of_God_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touched By The Hand Of God",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/07_Touched_By_The_Hand_Of_God_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God (original)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/08_Touched_by_the_Hand_of_God_(original)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Touched by the Hand of God",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/09_Touched_by_the_Hand_of_God_New_Order.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Touched by the Hand of God",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/pl_01_Touched_by_the_Hand_of_God_New_Order.txt"
+    }
+  ]
+}
